@@ -7,6 +7,10 @@ public class Main {
 
 		
 		System.out.println("Git Hi and fuck you");
+		
+		
+		
+		System.out.println("wow");
 	}
 
 }
