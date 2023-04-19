@@ -11,4 +11,13 @@ public class NewDate {
 	public void oldDate() {
 		System.out.println("old");
 	}
+		
+	public void newDate() {
+		System.out.println("new");
+		
+		
+		
+		
+		
+	}
 }
